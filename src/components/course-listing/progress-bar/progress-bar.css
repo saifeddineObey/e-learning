@@ -1,0 +1,27 @@
+.progress-bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+@media (max-width: 768px) {
+  .progress-bar {
+    gap: 5px;
+  }
+}
+
+.circle {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: lightgray;
+
+  @media only screen and (max-width:992px) {
+    width: 10px;
+    height: 10px;
+  }
+}
+
+.circle.active {
+  background-color: rgb(243, 243, 23);
+}

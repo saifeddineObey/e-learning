@@ -1,0 +1,25 @@
+
+  
+  .contact .title {
+    background-color: gray;
+    padding: 5px 10px;
+  }
+
+  .contact .title  h4{
+    font-size: 12px;
+    margin: 0;
+
+  }
+  .description .credentials{
+    margin-top: 1rem;
+  }
+  .description .credentials h5 ,p{
+font-size: 12px;
+color: gray;
+margin: 0;
+  }
+  .description .credentials a{
+    font-size: 12px;
+    text-decoration: none;
+
+      }

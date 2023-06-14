@@ -1,0 +1,39 @@
+.navigation .item{
+ background-color: white;
+ padding: 1rem;
+ display: flex;   
+ margin: 1rem 0;
+ align-items: center;
+}
+
+@media (max-width: 768px) {
+  .navigation {
+    
+margin-top: 1rem;
+  }}
+
+.navigation .item img{
+    width: 3rem;
+    height: 3rem;
+   }
+
+   
+.navigation .item h3{
+   font-size: 0.8rem;
+   line-height: 16px;
+   }
+
+   .navigation .title {
+      background-color: gray;
+      padding: 5px 10px;
+    }
+  
+    .navigation .title  h4{
+      font-size: 12px;
+      margin: 0;
+    }
+
+    .navigation a{
+   text-decoration: none;
+   color: black;
+    }

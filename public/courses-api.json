@@ -1,0 +1,100 @@
+ [
+      {
+        "id": 1,
+        "image":"fraud_prevention.png",
+        "parts": [
+          {
+            "title": "intensification of money laundering prevention - private customer advise",
+            "duration": "30min",
+            "terminationDate":"-",
+            "progress": "3"
+          },
+          {
+            "title": "basic training - Prevention of Money Laundering and Terrorist Financing (v3.0)",
+            "duration": "44min",
+            "terminationDate":"-",
+            "progress": "0"
+          },
+          {
+            "title": "Advanced Training - Prevention of Money Laundering and Terrorist Financing (v3.0)",
+            "duration": "22min ",
+            "terminationDate":"-",
+            "progress": "0"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "image":"it_security.png",
+        "parts": [
+          {
+            "title": "it security basics (v1.01.3)",
+            "duration": "40min",
+            "terminationDate":"March 14 ,2024",
+            "progress": "0"
+          },
+          {
+            "title": "basic training - IT security and information security (v1.0)",
+            "duration": "60min",
+            "terminationDate":"-",
+            "progress": "3"
+          },
+          {
+            "title": "Advanced Training - IT security and information security (v1.1)",
+            "duration": "29min",
+            "terminationDate":"-",
+            "progress": "0"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "image":"data_protection.png",
+        "parts": [
+          {
+            "title": "it security basics (v1.01.3)",
+            "duration": "0min",
+            "terminationDate":"-",
+            "progress": "0"
+          },
+          {
+            "title": "pravacy basics (v1.00.2)",
+            "duration": "40min",
+            "terminationDate":"-",
+            "progress": "0"
+          },
+          {
+            "title": "In depth training protection (v10)",
+            "duration": "51min",
+            "terminationDate":"-",
+            "progress": "0"
+          },
+          {
+            "title": "pravacy basics (v1.0)",
+            "duration": "40min",
+            "terminationDate":"-",
+            "progress": "3"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "image":"wphg.png",
+        "parts": [
+          {
+            "title": "WpHg compliance basics (V1.003)",
+            "duration": "30min",
+            "terminationDate":"-",
+            "progress": "0"
+          },
+          {
+            "title": "in-depth WpHG - sales representative (v1.00.2)",
+            "duration": "30min",
+            "terminationDate":"-",
+            "progress": "0"
+          }
+        ]
+      }
+    ]
+
+  

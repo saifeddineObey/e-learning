@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/e-learning-task/static/css/main.e808bf4f.css",
+    "main.js": "/e-learning-task/static/js/main.fd4e5039.js",
+    "static/media/logo.png": "/e-learning-task/static/media/logo.a1f4f9961f38eccb4142.png",
+    "static/media/fraud_prevention.png": "/e-learning-task/static/media/fraud_prevention.45a111bf87a974655493.png",
+    "index.html": "/e-learning-task/index.html",
+    "main.e808bf4f.css.map": "/e-learning-task/static/css/main.e808bf4f.css.map",
+    "main.fd4e5039.js.map": "/e-learning-task/static/js/main.fd4e5039.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e808bf4f.css",
+    "static/js/main.fd4e5039.js"
+  ]
+}

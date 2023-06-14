@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+    background-color: #585af5;
+    color: #fff;
+    justify-content: end;
+  }
+
+  .header img{
+    width: 20rem;
+  }
+  
+  @media (max-width: 768px) {
+    .header img{
+      width: 10rem;
+    }
+  } 
